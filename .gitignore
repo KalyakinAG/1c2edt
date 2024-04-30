@@ -1,0 +1,10 @@
+# IDE
+/.metadata/
+/.settings/
+/.vscode/
+
+# Binary
+bin
+InfoBases
+tools
+examples
